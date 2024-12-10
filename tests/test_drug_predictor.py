@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from src.models.drug_predictor import DrugPredictor
 
+
 def test_drug_predictor():
     # Create sample data
     X = np.random.rand(100, 5)

@@ -2,6 +2,7 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 
+
 class DrugPredictor:
     def __init__(self):
         self.model = DecisionTreeClassifier(criterion="entropy", max_depth=4)

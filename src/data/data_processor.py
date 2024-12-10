@@ -2,6 +2,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
+
 class DataProcessor:
     def __init__(self):
         self.le_sex = LabelEncoder()
