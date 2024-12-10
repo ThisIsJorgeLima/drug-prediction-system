@@ -214,7 +214,7 @@ with st.sidebar:
 
     **Acknowledgments**:
     - **Author** Saeed Aghabozorgi
-    - ""Contributors** [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/)
+    - **Contributors** [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/)
     - Built as a practical application of machine learning concepts learned in the IBM Machine Learning course.
 
     **Contact**:
