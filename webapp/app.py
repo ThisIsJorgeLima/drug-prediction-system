@@ -170,7 +170,7 @@ st.markdown("""
     [data-testid="stSidebar"] h1,
     [data-testid="stSidebar"] h2,
     [data-testid="stSidebar"] h3 {
-        color: white !important;
+        color: black !important; # modified from white
     }
     </style>
     """, unsafe_allow_html=True)
