@@ -1,6 +1,6 @@
 ### README.md
 
-# 🌳 Drug Decision Assistant
+# 🌳 PharmaTree: Data-Driven Insights for Drug Prediction
 
 This repository contains a machine-learning-powered application that predicts the most suitable drug type for patients based on their medical attributes. It leverages a Decision Tree Classifier and was created as part of the IBM Machine Learning Lab, integrated with additional customizations and optimizations.
 
