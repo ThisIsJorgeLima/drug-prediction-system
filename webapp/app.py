@@ -151,21 +151,21 @@ st.markdown("""
 
     /* Success/Info messages */
     .stSuccess, .stInfo {
-        color: #7cb0e1 !important; #made changes 1a1a1a to 7cb0e1 
+        color: #1a1a1a !important;
     }
 
     /* [2024-12-09 10:40 UTC-5] Sidebar specific overrides */
     [data-testid="stSidebar"] .element-container {
-        color: white !important;
+        color: black !important;
     }
     [data-testid="stSidebar"] .stMarkdown {
-        color: white !important;
+        color: black !important;
     }
     [data-testid="stSidebar"] p {
-        color: white !important;
+        color: black !important;
     }
     [data-testid="stSidebar"] .stSlider label {
-        color: white !important;
+        color: black !important;
     }
     [data-testid="stSidebar"] h1,
     [data-testid="stSidebar"] h2,
