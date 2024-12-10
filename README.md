@@ -99,6 +99,9 @@ Handles data preprocessing:
 - Python 3.8 or higher.
 - Required libraries: `pandas`, `scikit-learn`, `streamlit`, `plotly`.
 
+To install the local package alongside dependencies, ensure you run:
+```bash
+pip install -e .
 ### Installation
 
 1. Clone the repository:
@@ -114,12 +117,20 @@ Handles data preprocessing:
    pip install -r requirements.txt
    ```
 
+   ### Local Development
+
+
+
 ### Running the App
 Start the Streamlit application:
 ```bash
 streamlit run webapp/app.py
 ```
+## Security and Dependency Management
 
+- Dependencies are audited regularly using `pip-audit`.
+- As of [current date], no known vulnerabilities were found.
+- Custom package `drug-prediction-system` is not hosted on PyPI and was manually reviewed for security.
 ---
 
 ## Acknowledgments

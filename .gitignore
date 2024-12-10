@@ -1,3 +1,34 @@
+# Ignore SSH keys
+*.key
+*.pub
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore environment configuration
+.env
+
+# Ignore secret files
+/Users/jorge/.ssh/drug_prediction_key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
