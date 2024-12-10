@@ -145,7 +145,7 @@ st.markdown("""
 
     /* Semi-transparent white tooltip box */
     .js-plotly-plot .hoverlayer .hovertext {
-        background-color: rgba(255, 255, 255, 0.6) !important; /* Light background with transparency */
+        background-color: rgba(221, 221, 221, 0.6) !important; /* Light background with transparency */
         border: 1px solid #ccc; /* Optional: Add a border */
     }
 
