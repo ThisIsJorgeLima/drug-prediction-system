@@ -134,7 +134,7 @@ st.markdown("""
     /* Plotly chart tool tips labels */
     /* [2024-12-09 17:50 UTC-5] Updated tooltip text color white without affecting other text */
     .js-plotly-plot .hoverlayer .hovertext text {
-        fill: #FFFFFF !important; /* White color for tooltips */
+        fill: #000000 !important; /* White color for tooltips */
     }
     /* Plotly chart tooltips */
     .js-plotly-plot .hoverlayer .hovertext {
