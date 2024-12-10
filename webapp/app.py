@@ -108,6 +108,13 @@ st.markdown("""
     .stMarkdown, .stTitle, p, h1, h2, h3 {
         color: #1a1a1a !important;
     }
+    /* Adjust title size */
+    h1 {
+        font-size: 28px !important; /* Shrink the font size */
+        font-weight: 700; /* Keep bold appearance */
+        color: #1a1a1a; /* Retain the existing color */
+        margin-bottom: 10px; /* Adjust spacing if necessary */
+    }
 
     /* Radio button text */
     .stRadio label {
@@ -289,7 +296,7 @@ max_depth = st.sidebar.slider('Max Depth', 1, 10, 3)
 min_samples_split = st.sidebar.slider('Min Samples Split', 2, 10, 2)
 
 # Main content
-st.title('PharmaTree')
+st.title('🌳PharmaTree: Built with Decision Tree Classification')
 
 # Tabs for different sections
 tab1, tab2, tab3, tab4, tab5 = st.tabs(
@@ -536,7 +543,7 @@ with tab3:
 
 # Footer
 st.markdown("""
-# PharmaTree: Built using concepts from the IBM Machine Learning Course on Coursera.
+ ### PharmaTree: Built using concepts from the IBM Machine Learning Course on Coursera.
 *Crafted by Jorge A. Lima: Precision Meets Purpose*
 **Transforming Healthcare Decisions Through Innovation**
 
