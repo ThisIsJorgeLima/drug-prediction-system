@@ -135,4 +135,4 @@ This project is a collaborative effort inspired by IBM’s educational resources
 
 © 2024 Jorge A. Lima and IBM Machine Learning Lab.
 
-For inquiries, contact: [thisisjorgelima@gmail.com](mailto:thisisjorgelima@gmail.com) or connect on X: [@thisisjorgelima](https://twitter.com/thisisjorgelima).
+For inquiries, contact: [jorgelima@gmx.us](mailto:jorgelima@gmx.us) or connect on X: [@thisisjorgelima](https://x.com/thisisjorgelima).
