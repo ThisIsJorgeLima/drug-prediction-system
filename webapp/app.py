@@ -151,7 +151,7 @@ st.markdown("""
 
     /* Success/Info messages */
     .stSuccess, .stInfo {
-        color: #1a1a1a !important;
+        color: #7cb0e1 !important; #made changes 1a1a1a to 7cb0e1 
     }
 
     /* [2024-12-09 10:40 UTC-5] Sidebar specific overrides */
