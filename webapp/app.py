@@ -206,7 +206,7 @@ with st.sidebar:
     - **Outcome**: The application predicts one of five drug types.
 
     **Data Source**:
-    - The dataset is sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+    - The dataset is sourced from [IBM Developer Skills Network](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv).
 
     **References**:
     - Foster Provost and Tom Fawcett. "Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking." O'Reilly Media, 2013.
