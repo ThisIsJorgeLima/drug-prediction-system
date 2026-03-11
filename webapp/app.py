@@ -479,7 +479,7 @@ st.markdown("""
 *Crafted by Jorge A. Lima: Precision Meets Purpose*
 **Transforming Healthcare Decisions Through Innovation**
 
-This application was developed as a project for the [IBM Machine Learning Lab](https://www.coursera.org/learn/machine-learning-with-python) in the Coursera course **Machine Learning with Python**.
+This application was developed as a project for the [IBM Machine Learning Lab](https://imp.i384100.net/5kgV4b) in the Coursera course **Machine Learning with Python**.
 It uses data and concepts provided by IBM while incorporating independent development and design by Jorge A. Lima.
 
 ---
